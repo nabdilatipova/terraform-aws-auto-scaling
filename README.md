@@ -1,5 +1,4 @@
-
-''' 
+``` 
   module "ASG" {
   source              = "../"
   region              = var.region
@@ -13,7 +12,7 @@
 
   
 }
-'''
+```
 
 # AWS Auto Scaling Group (ASG) Terraform module
 
